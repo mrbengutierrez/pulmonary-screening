@@ -6,7 +6,7 @@ This project was for the MIT Mobile attempting to make a Pulmonary Screening dev
 The device used the google voice kit.
 
 ## Clone Code ##
-git clone https://mitmobilelab@gitlab.com/mitmobilelab/pulmonary-voice.git
+git clone https://github.com/mrbengutierrez/pulmonary_screening.git
 
 ## Step 1: Raspberry Pi Setup (Automatic) ##
 * sudo bash /home/pi/pulmonary-voice/initialization.sh
