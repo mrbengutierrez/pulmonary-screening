@@ -49,22 +49,22 @@ git clone https://github.com/mrbengutierrez/pulmonary_screening.git
 
 ## Example Report
 
-Date and Time: 2018-10-06 11:57 EDT
-Patient's Name: Bob
-Patient's Sex: male
-Age: 27 years old
-Weight (kg): 170 lb
-Cough: yes I do
-Nasal Symptoms: yes I do
-Fever: I have
-Experiences Breathlessness: I am yeah
-Breathlessness Level (1=Light, 5=Severe): 3
-Experiences Chest Pain: yeah
-Personal History of Allergies: no
-Family History of Allergies: no I do not
-History of Smoking: yes
-Number of Cigarettes per Day: 3
-History of Tobacco: yes
-History of Alcohol Consumption: yes
-Cooks with Biomass: yes
-Maximum Peak Flow Meter Reading (liters/min): 432
+Date and Time: 2018-10-06 11:57 EDT  
+Patient's Name: Bob  
+Patient's Sex: male  
+Age: 27 years old  
+Weight (kg): 170 lb  
+Cough: yes I do  
+Nasal Symptoms: yes I do  
+Fever: I have  
+Experiences Breathlessness: I am yeah  
+Breathlessness Level (1=Light, 5=Severe): 3  
+Experiences Chest Pain: yeah  
+Personal History of Allergies: no  
+Family History of Allergies: no I do not  
+History of Smoking: yes  
+Number of Cigarettes per Day: 3  
+History of Tobacco: yes  
+History of Alcohol Consumption: yes  
+Cooks with Biomass: yes  
+Maximum Peak Flow Meter Reading (liters/min): 432  
